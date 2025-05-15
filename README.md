@@ -85,6 +85,15 @@ Clique com o botão direito > Run
     
 ---
 
+## 📬 Testes com Postman
+
+Você pode importar a Collection do Postman para testar todos os endpoints da API de forma simples.
+
+- [📥 Download da Collection](./todoapi.postman_collection.json)
+- Após importar, você verá os métodos `GET`, `POST`, `PUT` e `DELETE` configurados.
+
+--- 
+
 ## 🗃️ Banco de Dados H2
 Para visualizar as tabelas no banco H2:
 
@@ -102,5 +111,9 @@ Para visualizar as tabelas no banco H2:
 Feito com ❤️ por Thales
 🔗 [GitHub](https://github.com/thales32k0)
 
+---
+
+## 📄 Licença
+Este projeto está sob a licença MIT.
 
 
