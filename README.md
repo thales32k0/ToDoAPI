@@ -75,8 +75,16 @@ cd todoapi
 ---
 
 ## 👨‍💻 Autor
-Feito com ❤️ por [Thales]
-🔗 [GitHub](https://github.com/thales32k0)
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/89024257?v=4" width="100"/></td>
+    <td>
+      <b>Thales Eduardo</b><br/>
+      Aprendiz de tecnologia focado em Java ☕<br/>
+      <a href="https://github.com/thales32k0">GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
