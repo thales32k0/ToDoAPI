@@ -3,6 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17-blue.svg?logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.5-brightgreen?logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![Postman Tested](https://img.shields.io/badge/Tested%20with-Postman-orange?logo=postman)](https://www.postman.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/thales32k0/todoapi)
 
